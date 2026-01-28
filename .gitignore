@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+integration_test/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# data files
+data/
+
+# claude config
+.claude/
